@@ -220,6 +220,14 @@ main#home h1 {
   padding: 0.5rem;
   border-bottom: #eece1a 5px solid;
 }
+.about-info h3 {
+  font-weight: bolder;
+}
+.about-info h6 {
+  font-size: 16px;
+  font-weight: bold;
+  color: #eece1a;
+}
 
 .projects {
   display: grid;
